@@ -1,0 +1,10 @@
+.taop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .center-image {
+    max-width: 40%; 
+  }
+  
